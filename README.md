@@ -1,4 +1,4 @@
-![yosoybartsolo Banner]([https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg](https://res.cloudinary.com/djlx5smmq/image/upload/v1686081293/yosoybart.banner_advdkf.jpg))
+![yosoybartsolo Banner]([[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg](https://res.cloudinary.com/djlx5smmq/image/upload/v1686081293/yosoybart.banner_advdkf.jpg)d](https://res.cloudinary.com/djlx5smmq/image/upload/v1686081293/yosoybart.banner_advdkf.jpg))
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm yosoybartsolo!</h2>
 
@@ -43,7 +43,7 @@
 
 <p align="center">
 <a href="https://www.yosoybartsolo.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="[https://linkedin.com/in/AVS1508](https://www.linkedin.com/in/bart-lopez-267b12212/)"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="[https://linkedin.com/in/AVS1508](https://www.linkedin.com/in/bart-lopez-267b12212/)"><img src="https://img.shields.io/badge/-yosoybartsolo%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:yosoybartsolo@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/yosoybartsolo"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/yosoybartsolo"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
