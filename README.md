@@ -25,8 +25,8 @@
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) &nbsp;
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png) &nbsp;
 ![CSS](https://img.icons8.com/color/48/000000/css3.png) &nbsp;
-![Git]([https://img.icons8.com/color/48/000000/git.png](https://icons8.com/icon/AZOZNnY73haj/github)) &nbsp;
-![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png) &nbsp;
+![Git](https://img.icons8.com/color/48/000000/git.png) &nbsp;
+![GitHub]([https://img.icons8.com/ios-glyphs/30/000000/github.png](https://icons8.com/icon/AZOZNnY73haj/github)) &nbsp;
 ![Markdown](https://img.icons8.com/office/40/000000/markdown.png) &nbsp;
 ![Visual Studio Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png) &nbsp;
 ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) &nbsp;
