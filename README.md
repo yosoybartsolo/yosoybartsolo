@@ -15,7 +15,7 @@
 - ✉️ &nbsp;You can shoot me an email at yosoybartsolo@gmail.com! I'll try to respond as soon as I can.
 
 <!-- Profile Picture -->
-<img align="right" src="your_photo_url" alt="Profile Picture" width="200"/>
+<img align="right" src="[your_photo_url](https://res.cloudinary.com/djlx5smmq/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1686152434/IMG_1051_kei7bz.jpg)" alt="Profile Picture" width="200"/>
 
 <!-- Tech Stack -->
 ## 🛠 &nbsp;Tech Stack
