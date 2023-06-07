@@ -30,7 +30,7 @@
 ![Markdown](https://img.icons8.com/office/40/000000/markdown.png) &nbsp;
 ![Visual Studio Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png) &nbsp;
 ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) &nbsp;
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css-logo.png) &nbsp;
 
 <!-- GitHub Analytics -->
 ## ⚙️ &nbsp;GitHub Analytics
