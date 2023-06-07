@@ -30,7 +30,7 @@
 ![Markdown](https://img.icons8.com/office/40/000000/markdown.png) &nbsp;
 ![Visual Studio Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png) &nbsp;
 ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) &nbsp;
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css-logo.png) &nbsp;
+![Tailwind CSS](https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667) &nbsp;
 
 <!-- GitHub Analytics -->
 ## ⚙️ &nbsp;GitHub Analytics
