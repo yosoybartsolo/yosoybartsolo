@@ -20,15 +20,17 @@
 <!-- Tech Stack -->
 ## 🛠 &nbsp;Stack Tecnológico
 
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- ![React](https://img.icons8.com/office/40/000000/react.png)
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- ![Git](https://img.icons8.com/color/48/000000/git.png)
-- ![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)
-- ![Markdown](https://img.icons8.com/office/40/000000/markdown.png)
-- ![Visual Studio Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) &nbsp;
+![React](https://img.icons8.com/office/40/000000/react.png) &nbsp;
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) &nbsp;
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) &nbsp;
+![CSS](https://img.icons8.com/color/48/000000/css3.png) &nbsp;
+![Git](https://img.icons8.com/color/48/000000/git.png) &nbsp;
+![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png) &nbsp;
+![Markdown](https://img.icons8.com/office/40/000000/markdown.png) &nbsp;
+![Visual Studio Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png) &nbsp;
+![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) &nbsp;
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
 
 <!-- GitHub Analytics -->
 ## ⚙️ &nbsp;Estadísticas de GitHub
